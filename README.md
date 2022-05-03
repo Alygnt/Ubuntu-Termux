@@ -1,5 +1,9 @@
 # Ubuntu-Termux
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/RDXLR/Ubuntu-Termux/main/Ubuntu-Termux-poster.png">
+</p>
+
 ## Installation: 
 1. Update termux: `apt-get update && apt-get upgrade -y`
 2. Install wget: `apt-get install wget -y`
